@@ -7,7 +7,7 @@ I am a passionate software developer with a keen interest in open-source contrib
 - 🌱 I’m learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on innovative projects that make a difference.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Email](mailto:ruchitha8@example.com)
+- 📫 How to reach me: [Email](mailto:ruchithashet15@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## 🛠️ Languages and Tools
